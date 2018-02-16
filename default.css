@@ -2001,7 +2001,7 @@ ul.contact li a.icon-rss:before
 #menu li
 {
 	display: block;
-	float: right;
+	float: left;
 	text-align: right;
 }
 
