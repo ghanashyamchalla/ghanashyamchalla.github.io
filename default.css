@@ -2015,7 +2015,7 @@ ul.contact li a.icon-rss:before
 	font-weight: 600;
 	text-transform: uppercase;
 	outline: 0;
-	color: #FFF;
+	color: #000;
 }
 
 #menu li:hover a, #menu li.active a, #menu li.active span
